@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="permission_camera_required">Камера необходима для сканирования QR-кода</string>
+
+    <string name="nfc_unsupported">Это устройство не поддерживает NFC</string>
+    <string name="nfc_foreground_enabled">Приложите NFC метку к телефону</string>
+
+    <string name="qr_no_link">QR не содержит ссылки</string>
+
+    <string name="enable_nfc">NFC выключен. Включите NFC в настройках</string>
+
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Gese</string>
+
+    <string name="qr" translatable="false">qr</string>
+    <string name="nfc" translatable="false">nfc</string>
+
+    <string name="permission_camera_required">Camera is required for QR-scanning</string>
+
+    <string name="nfc_unsupported">This device doesn\'t support NFC</string>
+    <string name="nfc_foreground_enabled">Enclose an NFC tag to your device</string>
+
+    <string name="qr_no_link">QR doesn\'t contain link</string>
+
+    <string name="enable_nfc">NFC is disabled. Enable NFC in settings.</string>
+
+</resources>
